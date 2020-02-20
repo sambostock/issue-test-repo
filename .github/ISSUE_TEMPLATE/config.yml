@@ -4,3 +4,6 @@ contact_links:
   - name: Example.org
     url: https://example.org
     about: Example link
+  - name: Example.com alternative
+    url: https://example.net
+    about: Alternative example link
